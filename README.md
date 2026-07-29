@@ -29,10 +29,10 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 # How to Use:
 1. Clone this repository.
 
- 2.Add your passport-sized photo to the images folder.
+2.Add your passport-sized photo to the images folder.
 
 
- 3.Run the script to see your "cool" transformation!
+3.Run the script to see your "cool" transformation!
 
 
 # Applications:
