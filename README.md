@@ -45,4 +45,4 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 3.Practicing computer vision workflows.
 
 
-4.Feel free to fork, contribute, or customize this project for your creative needs!
+Feel free to fork, contribute, or customize this project for your creative needs!
