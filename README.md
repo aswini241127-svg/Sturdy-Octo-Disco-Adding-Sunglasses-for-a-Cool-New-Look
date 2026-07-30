@@ -247,3 +247,6 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 <img width="1405" height="777" alt="image" src="https://github.com/user-attachments/assets/94824837-c84e-4809-8572-5cbf6873b774" />
 
 
+
+# Result:
+The sunglasses PNG image was successfully superimposed onto the face image using alpha masking and image blending techniques in OpenCV. The final output shows a realistic face image with sunglasses correctly placed over the eyes.
